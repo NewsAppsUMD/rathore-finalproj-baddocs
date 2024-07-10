@@ -1,0 +1,302 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title> Doctor of Osteopathic Medicine </title>
+  <meta name="description" content="Merrill College of Journalism, UMD">
+  <meta name="author" content="Khushboo Rathore">
+
+  <!-- Bootstrap CSS and JavaScript -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,400&display=swap"
+    rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Hind+Siliguri:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Stylesheet Linkage -->
+  <link rel="stylesheet" href="../static/style.css">
+
+</head>
+
+<body>
+  <div id="container" >
+    <!--Navbar Starts-->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top" data-bs-theme="dark">
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active barsign" aria-current="page" href="/"> Main Page </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active barsign" aria-current="page" href="/dataset"> Full Dataset </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active barsign" aria-current="page" href="/contact"> Get In Touch </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--Navbar end-->
+
+    <div id="content">
+      <div class="row">
+        <div class="col-lg-12">
+          <div id="type_head">
+            Doctor of Osteopathic Medicine
+          </div>
+        </div>
+      </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div id="type_dek">
+              Across 21 board of physician alerts, 
+              there were 11 distinct doctors and 24 distinct cases.
+            </div>
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>Doctor Name</th>
+                  <th>Doctor Type</th>
+                  <th>License Number</th>
+                  <th>Date</th>
+                  <th>Case Number</th>
+                  <th>PDF Link</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                  <tr>
+                    <td><a href=/doctor/Joan%20Smith>Joan Smith</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0048286</td>
+                    <td>2014-11-24</td>
+                    <td>7714-0061</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/h4828611.244.pdf> h4828611.244</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Joan%20Smith>Joan Smith</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0048286</td>
+                    <td>2014-11-24</td>
+                    <td>2014-0741</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/h4828611.244.pdf> h4828611.244</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Hadi%20Rassael>Hadi Rassael</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0051091</td>
+                    <td>2016-05-26</td>
+                    <td>7715-0052</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/h5109105.266.pdf> h5109105.266</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jonathan%20Klingler>Jonathan Klingler</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0075599</td>
+                    <td>2016-03-24</td>
+                    <td>2015-0851B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/h7559903.246.pdf> h7559903.246</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Charles%20Avetian>Charles Avetian</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0079214</td>
+                    <td>2017-11-07</td>
+                    <td>7718-0042</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H7921411.077.pdf> H7921411.077</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Charles%20Avetian>Charles Avetian</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0079214</td>
+                    <td>2017-11-07</td>
+                    <td>2201-2207</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H7921411.077.pdf> H7921411.077</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Charles%20Avetian>Charles Avetian</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0079214</td>
+                    <td>2017-10-12</td>
+                    <td>2218-0041</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H7921410.127.pdf> H7921410.127</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Vinson%20Disanto>Vinson Disanto</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0072057</td>
+                    <td>2019-10-29</td>
+                    <td>2220-0062</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H7205710.299.pdf> H7205710.299</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/John%20Byrne>John Byrne</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0059435</td>
+                    <td>2019-03-01</td>
+                    <td>None</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H5943503.019.pdf> H5943503.019</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Nilay%20Thaker>Nilay Thaker</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0070147</td>
+                    <td>2020-04-06</td>
+                    <td>2219-0181A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H7014704.060.pdf> H7014704.060</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Nilay%20Thaker>Nilay Thaker</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0070147</td>
+                    <td>2020-03-24</td>
+                    <td>2219-0181A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/h7014703.240.pdf> h7014703.240</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jessica%20Greco>Jessica Greco</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0077209</td>
+                    <td>2021-09-21</td>
+                    <td>2222-0012A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H7720909.211.pdf> H7720909.211</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jeffery%20Dormu>Jeffery Dormu</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0065639</td>
+                    <td>2022-10-11</td>
+                    <td>2222-0014A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H6563910.112.pdf> H6563910.112</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jeffery%20Dormu>Jeffery Dormu</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0065639</td>
+                    <td>2022-08-11</td>
+                    <td>2222-0014</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H6563908.112.pdf> H6563908.112</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jeffery%20Dormu>Jeffery Dormu</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0065639</td>
+                    <td>2022-08-03</td>
+                    <td>2220-0145</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H6563908.032.pdf> H6563908.032</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jessica%20Greco>Jessica Greco</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0077209</td>
+                    <td>2022-07-21</td>
+                    <td>2222-0012A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H7720907.212.pdf> H7720907.212</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jessica%20Greco>Jessica Greco</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0077209</td>
+                    <td>2022-07-21</td>
+                    <td>7722-0063</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H7720907.212.pdf> H7720907.212</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Virgil%20McMillion>Virgil McMillion</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0091843</td>
+                    <td>2022-06-01</td>
+                    <td>2222-0103</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H9184306.012.pdf> H9184306.012</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Virgil%20McMillion>Virgil McMillion</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0091843</td>
+                    <td>2022-02-28</td>
+                    <td>2222-0103</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H9184302.282.pdf> H9184302.282</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jessica%20Greco>Jessica Greco</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0077209</td>
+                    <td>2022-02-02</td>
+                    <td>2222-0012A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H7720902.022.pdf> H7720902.022</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Katherine%20Asadi>Katherine Asadi</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0054970</td>
+                    <td>2023-10-12</td>
+                    <td>2223-0133</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H5497010.123.pdf> H5497010.123</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Katherine%20Asadi>Katherine Asadi</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0054970</td>
+                    <td>2023-09-27</td>
+                    <td>2223-0133A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H5497009.273.pdf> H5497009.273</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jeffery%20Dormu>Jeffery Dormu</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0065639</td>
+                    <td>2024-04-16</td>
+                    <td>7723-0024</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H006563904.164.pdf> H006563904.164</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Katherine%20Asadi>Katherine Asadi</a></td>
+                    <td>Doctor of Osteopathic Medicine</td>
+                    <td>H0054970</td>
+                    <td>2024-02-05</td>
+                    <td>2223-0133A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/H5497002.054.pdf> H5497002.054</a></td>
+                  </tr>
+                
+              </tbody>
+            </div>      
+            </table>
+          </div>
+        </div>
+
+            
+      </div>
+    </div>
+  </body>
+</html>

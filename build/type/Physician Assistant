@@ -1,0 +1,338 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title> Physician Assistant </title>
+  <meta name="description" content="Merrill College of Journalism, UMD">
+  <meta name="author" content="Khushboo Rathore">
+
+  <!-- Bootstrap CSS and JavaScript -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,400&display=swap"
+    rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Hind+Siliguri:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Stylesheet Linkage -->
+  <link rel="stylesheet" href="../static/style.css">
+
+</head>
+
+<body>
+  <div id="container" >
+    <!--Navbar Starts-->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top" data-bs-theme="dark">
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active barsign" aria-current="page" href="/"> Main Page </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active barsign" aria-current="page" href="/dataset"> Full Dataset </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active barsign" aria-current="page" href="/contact"> Get In Touch </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--Navbar end-->
+
+    <div id="content">
+      <div class="row">
+        <div class="col-lg-12">
+          <div id="type_head">
+            Physician Assistant
+          </div>
+        </div>
+      </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div id="type_dek">
+              Across 22 board of physician alerts, 
+              there were 18 distinct doctors and 28 distinct cases.
+            </div>
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>Doctor Name</th>
+                  <th>Doctor Type</th>
+                  <th>License Number</th>
+                  <th>Date</th>
+                  <th>Case Number</th>
+                  <th>PDF Link</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                  <tr>
+                    <td><a href=/doctor/Jennifer%20Cecil>Jennifer Cecil</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0004321</td>
+                    <td>2016-07-07</td>
+                    <td>7716-0016</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/c0432107.076.pdf> c0432107.076</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Allyson%20Conley>Allyson Conley</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0001527</td>
+                    <td>2016-06-30</td>
+                    <td>2016-0368B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/c0152706.306.pdf> c0152706.306</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Virginia%20Vesay>Virginia Vesay</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0002940</td>
+                    <td>2016-06-15</td>
+                    <td>2016-0715B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/c0294006.156.pdf> c0294006.156</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Tasha%20Anderson>Tasha Anderson</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0005296</td>
+                    <td>2017-12-14</td>
+                    <td>7716-0082B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/c0529612.147.pdf> c0529612.147</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Tasha%20Anderson>Tasha Anderson</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0005296</td>
+                    <td>2017-12-14</td>
+                    <td>2015-0771B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/c0529612.147.pdf> c0529612.147</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Vickey%20Manning>Vickey Manning</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0001603</td>
+                    <td>2017-01-24</td>
+                    <td>2015-0890B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/c0160301.247.pdf> c0160301.247</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Maria%20Shesiuk>Maria Shesiuk</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0004925</td>
+                    <td>2018-02-06</td>
+                    <td>2218-0028B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0492502.068.pdf> C0492502.068</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Fermin%20Cabezas>Fermin Cabezas</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0007218</td>
+                    <td>2019-10-08</td>
+                    <td>2220-0089</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0721810.089.pdf> C0721810.089</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Ahmed%20Gbadamosi>Ahmed Gbadamosi</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0004261</td>
+                    <td>2019-08-29</td>
+                    <td>2218-0054A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0426108.299.pdf> C0426108.299</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Mary%20Ferguson>Mary Ferguson</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0001577</td>
+                    <td>2019-07-11</td>
+                    <td>7716-0010A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0157707.119.pdf> C0157707.119</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Mary%20Ferguson>Mary Ferguson</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0001577</td>
+                    <td>2019-07-11</td>
+                    <td>7719-0099</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0157707.119.pdf> C0157707.119</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Chioma%20Alexander>Chioma Alexander</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0003890</td>
+                    <td>2019-07-09</td>
+                    <td>2217-0092B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0389007.099.pdf> C0389007.099</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Cassandra%20Burns-Ross>Cassandra Burns-Ross</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0001009</td>
+                    <td>2019-04-12</td>
+                    <td>2218-0132A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0100904.129.pdf> C0100904.129</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Mary%20Ferguson>Mary Ferguson</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0001577</td>
+                    <td>2019-04-11</td>
+                    <td>7716-0010A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0157704.119.pdf> C0157704.119</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Fahim%20Kashif>Fahim Kashif</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0003457</td>
+                    <td>2019-01-29</td>
+                    <td>2219-0102A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0345701.299.pdf> C0345701.299</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Richard%20Falcioni>Richard Falcioni</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0000537</td>
+                    <td>2019-01-25</td>
+                    <td>7718-0120</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0053701.259.pdf> C0053701.259</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Richard%20Falcioni>Richard Falcioni</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0000537</td>
+                    <td>2019-01-25</td>
+                    <td>2217-0016B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0053701.259.pdf> C0053701.259</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Tasha%20Anderson>Tasha Anderson</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0005296</td>
+                    <td>2019-01-02</td>
+                    <td>2015-0771B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0529601.029.pdf> C0529601.029</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Tasha%20Anderson>Tasha Anderson</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0005296</td>
+                    <td>2019-01-02</td>
+                    <td>2218-0243</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0529601.029.pdf> C0529601.029</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Tasha%20Anderson>Tasha Anderson</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0005296</td>
+                    <td>2019-01-02</td>
+                    <td>7718-0066</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0529601.029.pdf> C0529601.029</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Tasha%20Anderson>Tasha Anderson</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0005296</td>
+                    <td>2019-01-02</td>
+                    <td>7716-0082B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0529601.029.pdf> C0529601.029</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Ahmed%20Gbadamosi>Ahmed Gbadamosi</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0004261</td>
+                    <td>2020-12-04</td>
+                    <td>2220-0122B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0426112.040.pdf> C0426112.040</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Collina%20Afriyie>Collina Afriyie</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0005636</td>
+                    <td>2020-09-02</td>
+                    <td>2220-0002A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0563609.020.pdf> C0563609.020</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jillian%20Goles>Jillian Goles</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0006834</td>
+                    <td>2021-07-19</td>
+                    <td>2220-0282B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0683407.191.pdf> C0683407.191</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Micheel%20Kwakye>Micheel Kwakye</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0004243</td>
+                    <td>2021-01-26</td>
+                    <td>7719-0065</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0424301.261.pdf> C0424301.261</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Raelynn%20Torzone>Raelynn Torzone</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0006111</td>
+                    <td>2022-05-04</td>
+                    <td>2222-0049B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0611105.042.pdf> C0611105.042</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Carl%20Oltman>Carl Oltman</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0001407</td>
+                    <td>2023-05-08</td>
+                    <td>2221-0144B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0140705.083.pdf> C0140705.083</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jillian%20Goles>Jillian Goles</a></td>
+                    <td>Physician Assistant</td>
+                    <td>C0006834</td>
+                    <td>2023-02-24</td>
+                    <td>7722-0007</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/C0683402.243.pdf> C0683402.243</a></td>
+                  </tr>
+                
+              </tbody>
+            </div>      
+            </table>
+          </div>
+        </div>
+
+            
+      </div>
+    </div>
+  </body>
+</html>

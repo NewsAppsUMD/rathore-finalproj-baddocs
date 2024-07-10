@@ -1,0 +1,281 @@
+
+#container {
+    width: 98%;
+    margin: 0 auto;
+}
+
+.barsign {
+    font-size: 20px;
+}
+
+#content {
+    margin-top: 30px;
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+#table {
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+#results {
+    width: 98%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#search_res {
+    font-family: "Hind Silliguri", sans-serif;
+    width: 100%;
+    font-size: 30px;
+    font-weight: 800;
+    margin: 0 auto;
+    color: #152238;
+}
+
+th {
+    font-family: "Hind Silliguri", sans-serif;
+    font-weight: 700px;
+}
+
+.bgimage {
+    min-height: 700px;
+    background: url(Flag_of_Maryland.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+#datawrapper-chart-khNwL{
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+#headline {
+    font-family: 'DM Serif Display', serif;
+    font-size: 10em;
+    color: #152238;
+    text-transform: UPPERCASE;
+    text-align: left;
+    width: 100%;
+    /*padding-top: 0px;*/
+    margin: 0 auto;
+    margin-bottom: -50px;
+}
+
+#type_head {
+    font-family: 'DM Serif Display', serif;
+    font-size: 7em;
+    color: #152238;
+    text-transform: capitalize;
+    text-align: left;
+    width: 100%;
+    padding-top: 10px;
+    margin: 0 auto;
+    margin-bottom: -20px;
+}
+
+#dek {
+    font-family: 'DM Serif Display', serif;
+    text-transform: capitalize;
+    font-size: 3.5em;
+    color: black;
+    text-align: left;
+    margin: 0 auto;
+    margin-left: 0;
+    padding-bottom: 20px;
+}
+
+#type_dek {
+    font-family: 'DM Serif Display', serif;
+    font-size: 2em;
+    color: black;
+    text-align: left;
+    margin: 0 auto;
+    margin-left: 0;
+    padding-bottom: 20px;
+}
+
+#credit {
+    font-size: 10px;
+    color: rgb(146, 146, 146);
+    text-align: right;
+}
+#story {
+    font-family: "Hind Silliguri", sans-serif;
+    width: 100%;
+    font-size: 30px;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-left: 0px;
+}
+
+#story_offset {
+    font-family: "Hind Silliguri", sans-serif;
+    width: 100%;
+    font-size: 30px;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-left: -12px;
+}
+
+#search {
+    font-family: "Hind Silliguri", sans-serif;
+    width: 100%;
+    font-size: 30px;
+    color: #152238;
+    font-weight: 800;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-left: 0px;
+}
+
+#byline {
+    font-family: 'Arvo', 'Garamond', serif;
+    font-size: 20px;
+    color: #4090b0;
+    text-align: left;
+    margin-top: 20px;
+}
+
+#date {
+    font-family: 'Arvo', 'Garamond', serif;
+    font-size: 15px;
+    color: black;
+    text-align: left;
+    margin-bottom: 10px;
+    color: #4090b0;
+    padding-bottom: 5px;
+    border-bottom: 3px solid black;
+}
+
+p {
+    margin-bottom: 10px;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-size: 18px;
+}
+.firstlet {
+    font-family: 'Arvo', 'Garamond', serif;
+    font-size: 40px;
+    font-style: normal;
+}
+
+.sechead {
+    font-family: 'Arvo', 'Garamond', serif;
+    text-align: left;
+    font-size: 30px;
+    color: #4090b0;
+    margin-top: 20px;
+}
+
+figcaption {
+    font-family: 'Roboto','sans-serif';
+    font-size: 11px;
+    color: rgb(172, 172, 172);
+}
+/*Image setup in site*/
+.photog {
+    width: 100%;
+}
+
+#sidepho {
+    width: 385px;
+}
+
+blockquote {
+    font-size: 30px;
+    font-family: 'Arvo', 'Garamond', serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+    text-align: center;
+    border-top: 5px solid;
+    border-color: #4090b0;
+    border-bottom: 5px solid;
+    color: #4090b0;
+}
+
+#readmore {
+    margin-top: -90px;
+}
+
+.headers {
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-size: 18px;
+}
+
+a {
+    color: black;
+}
+
+@media only screen and (min-width: 1530px){
+    #headline {
+        font-size: 9em;
+    }
+    #dek {
+        font-size: 4em;
+    }
+}
+
+@media only screen and (max-width: 1205px){
+    #headline {
+        font-size: 6em;
+    }
+    #dek {
+        font-size: 2.5em;
+    }
+    .bgimage {
+        max-height: 500px;
+    }
+}
+
+@media only screen and (max-width: 770px){
+    #headline {
+        font-size: 5em;
+    }
+    #dek {
+        font-size: 2em;
+    }
+    #sidepho{
+        width: 100%
+    }
+}
+
+@media only screen and (max-width: 520px){
+    #headline {
+        font-size: 4em;
+    }
+    #dek {
+        font-size: 1.5em;
+    }
+}
+
+@media only screen and (max-width: 440px){
+    #headline {
+        font-size: 3em;
+    }
+    #dek {
+        font-size: 1em;
+    }
+    .bgimage {
+        min-height: 0;
+        max-height: 400px;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    #headline {
+        font-size: 2em;
+    }
+    #dek {
+        font-size: 1em;
+    }
+    .bgimage {
+        min-height: 0;
+        max-height: 400px;
+    }
+}

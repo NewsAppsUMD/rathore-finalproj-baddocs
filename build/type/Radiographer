@@ -1,0 +1,437 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title> Radiographer </title>
+  <meta name="description" content="Merrill College of Journalism, UMD">
+  <meta name="author" content="Khushboo Rathore">
+
+  <!-- Bootstrap CSS and JavaScript -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,400&display=swap"
+    rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Hind+Siliguri:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Stylesheet Linkage -->
+  <link rel="stylesheet" href="../static/style.css">
+
+</head>
+
+<body>
+  <div id="container" >
+    <!--Navbar Starts-->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top" data-bs-theme="dark">
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active barsign" aria-current="page" href="/"> Main Page </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active barsign" aria-current="page" href="/dataset"> Full Dataset </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active barsign" aria-current="page" href="/contact"> Get In Touch </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--Navbar end-->
+
+    <div id="content">
+      <div class="row">
+        <div class="col-lg-12">
+          <div id="type_head">
+            Radiographer
+          </div>
+        </div>
+      </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div id="type_dek">
+              Across 34 board of physician alerts, 
+              there were 25 distinct doctors and 39 distinct cases.
+            </div>
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>Doctor Name</th>
+                  <th>Doctor Type</th>
+                  <th>License Number</th>
+                  <th>Date</th>
+                  <th>Case Number</th>
+                  <th>PDF Link</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+                  <tr>
+                    <td><a href=/doctor/Carlos%20Poroj>Carlos Poroj</a></td>
+                    <td>Radiographer</td>
+                    <td>R0006986</td>
+                    <td>2016-11-29</td>
+                    <td>2017-0231</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/r0698611.296.pdf> r0698611.296</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Gig%20Young>Gig Young</a></td>
+                    <td>Radiographer</td>
+                    <td>R0003571</td>
+                    <td>2016-08-16</td>
+                    <td>2017-0017</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/r0357108.166.pdf> r0357108.166</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Veronica%20Shawyer>Veronica Shawyer</a></td>
+                    <td>Radiographer</td>
+                    <td>R0007006</td>
+                    <td>2016-05-27</td>
+                    <td>2016-0823</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/r0700605.276.pdf> r0700605.276</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Melanie%20Deem>Melanie Deem</a></td>
+                    <td>Radiographer</td>
+                    <td>R0011794</td>
+                    <td>2018-05-10</td>
+                    <td>2218-0076</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R1179405.108.pdf> R1179405.108</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jennifer%20Manchester>Jennifer Manchester</a></td>
+                    <td>Radiographer</td>
+                    <td>R0004174</td>
+                    <td>2018-05-10</td>
+                    <td>2218-0070B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0417405.108.pdf> R0417405.108</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Robert%20Warren>Robert Warren</a></td>
+                    <td>Radiographer</td>
+                    <td>R0010165</td>
+                    <td>2018-02-27</td>
+                    <td>2218-0141</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R1016502.278.pdf> R1016502.278</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Kelsie%20Grove>Kelsie Grove</a></td>
+                    <td>Radiographer</td>
+                    <td>R0011742</td>
+                    <td>2018-02-16</td>
+                    <td>2218-0075A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R1174202.168.pdf> R1174202.168</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Lynn%20Vyzga>Lynn Vyzga</a></td>
+                    <td>Radiographer</td>
+                    <td>R0009098</td>
+                    <td>2018-02-16</td>
+                    <td>2218-0073A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0909802.168.pdf> R0909802.168</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Michelle%20Wyrick>Michelle Wyrick</a></td>
+                    <td>Radiographer</td>
+                    <td>R0001647</td>
+                    <td>2018-02-08</td>
+                    <td>7715-0102</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0164702.088.pdf> R0164702.088</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Christopher%20Wilson>Christopher Wilson</a></td>
+                    <td>Radiographer</td>
+                    <td>R0007234</td>
+                    <td>2019-10-08</td>
+                    <td>2218-0224B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0723410.089.pdf> R0723410.089</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Elizabeth%20Myers>Elizabeth Myers</a></td>
+                    <td>Radiographer</td>
+                    <td>R0002592</td>
+                    <td>2019-10-04</td>
+                    <td>2219-0195B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0259210.049.pdf> R0259210.049</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Elizabeth%20Myers>Elizabeth Myers</a></td>
+                    <td>Radiographer</td>
+                    <td>R0002592</td>
+                    <td>2019-08-29</td>
+                    <td>2219-0195B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0259208.299.pdf> R0259208.299</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Elizabeth%20Myers>Elizabeth Myers</a></td>
+                    <td>Radiographer</td>
+                    <td>R0002592</td>
+                    <td>2019-07-09</td>
+                    <td>2219-0195B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0259207.099.pdf> R0259207.099</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jamal%20Townes>Jamal Townes</a></td>
+                    <td>Radiographer</td>
+                    <td>R0011859</td>
+                    <td>2019-06-19</td>
+                    <td>2218-0237A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R1185906.199.pdf> R1185906.199</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Farison%20Padavil>Farison Padavil</a></td>
+                    <td>Radiographer</td>
+                    <td>R0006782</td>
+                    <td>2019-06-04</td>
+                    <td>7719-0015A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0678206.049.pdf> R0678206.049</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Ronnie%20Taylor>Ronnie Taylor</a></td>
+                    <td>Radiographer</td>
+                    <td>R0004361</td>
+                    <td>2020-10-07</td>
+                    <td>2219-0155</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0436110.070.pdf> R0436110.070</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Elizabeth%20Myers>Elizabeth Myers</a></td>
+                    <td>Radiographer</td>
+                    <td>R0002592</td>
+                    <td>2020-09-16</td>
+                    <td>7721-0007</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0259209.160.pdf> R0259209.160</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Elizabeth%20Myers>Elizabeth Myers</a></td>
+                    <td>Radiographer</td>
+                    <td>R0002592</td>
+                    <td>2020-09-16</td>
+                    <td>7720-0035</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0259209.160.pdf> R0259209.160</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Elizabeth%20Myers>Elizabeth Myers</a></td>
+                    <td>Radiographer</td>
+                    <td>R0002592</td>
+                    <td>2020-09-16</td>
+                    <td>2219-0195B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0259209.160.pdf> R0259209.160</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Tammy%20Ashby>Tammy Ashby</a></td>
+                    <td>Radiographer</td>
+                    <td>R0006402</td>
+                    <td>2020-08-24</td>
+                    <td>2220-0063</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0640208.240.pdf> R0640208.240</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Christopher%20Montgomery>Christopher Montgomery</a></td>
+                    <td>Radiographer</td>
+                    <td>R0001025</td>
+                    <td>2020-06-09</td>
+                    <td>2220-0196</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0102506.090.pdf> R0102506.090</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Daniel%20Szuba>Daniel Szuba</a></td>
+                    <td>Radiographer</td>
+                    <td>R0009840</td>
+                    <td>2021-05-19</td>
+                    <td>2221-0063A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0984005.191.pdf> R0984005.191</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Tracey%20McCorr>Tracey McCorr</a></td>
+                    <td>Radiographer</td>
+                    <td>R0008304</td>
+                    <td>2021-02-26</td>
+                    <td>2220-0281A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0830402.261.pdf> R0830402.261</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Daniel%20Szuba>Daniel Szuba</a></td>
+                    <td>Radiographer</td>
+                    <td>R0009840</td>
+                    <td>2021-02-24</td>
+                    <td>2221-0063A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0984002.241.pdf> R0984002.241</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Sanjay%20Sankhe>Sanjay Sankhe</a></td>
+                    <td>Radiographer</td>
+                    <td>R0008590</td>
+                    <td>2022-09-07</td>
+                    <td>7723-0003</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0859009.072.pdf> R0859009.072</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Sanjay%20Sankhe>Sanjay Sankhe</a></td>
+                    <td>Radiographer</td>
+                    <td>R0008590</td>
+                    <td>2022-09-07</td>
+                    <td>2221-0134B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0859009.072.pdf> R0859009.072</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Sanjay%20Sankhe>Sanjay Sankhe</a></td>
+                    <td>Radiographer</td>
+                    <td>R0008590</td>
+                    <td>2022-07-21</td>
+                    <td>2221-0134B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0859007.212.pdf> R0859007.212</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Krista%20Chastain>Krista Chastain</a></td>
+                    <td>Radiographer</td>
+                    <td>R0009509</td>
+                    <td>2022-06-13</td>
+                    <td>2221-0002B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0950906.132.pdf> R0950906.132</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Krista%20Chastain>Krista Chastain</a></td>
+                    <td>Radiographer</td>
+                    <td>R0009509</td>
+                    <td>2022-06-13</td>
+                    <td>2222-0081B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0950906.132.pdf> R0950906.132</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Krista%20Chastain>Krista Chastain</a></td>
+                    <td>Radiographer</td>
+                    <td>R0009509</td>
+                    <td>2022-03-24</td>
+                    <td>2222-0081</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0950903.242.pdf> R0950903.242</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Krista%20Chastain>Krista Chastain</a></td>
+                    <td>Radiographer</td>
+                    <td>R0009509</td>
+                    <td>2022-03-08</td>
+                    <td>2222-0081B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0950903.082.pdf> R0950903.082</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Robert%20Slate>Robert Slate</a></td>
+                    <td>Radiographer</td>
+                    <td>R0005911</td>
+                    <td>2022-02-10</td>
+                    <td>2220-0252</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0591102.102.pdf> R0591102.102</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Sara%20Cook-Pulizzotto>Sara Cook-Pulizzotto</a></td>
+                    <td>Radiographer</td>
+                    <td>R0003620</td>
+                    <td>2023-11-17</td>
+                    <td>7723-0076</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0362011.173.pdf> R0362011.173</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Renee%20Atzeni-Dandrea>Renee Atzeni-Dandrea</a></td>
+                    <td>Radiographer</td>
+                    <td>R0012954</td>
+                    <td>2023-06-30</td>
+                    <td>2222-0087B</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R1295406.303.pdf> R1295406.303</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Sara%20Cook-Pulizzotto>Sara Cook-Pulizzotto</a></td>
+                    <td>Radiographer</td>
+                    <td>R0003620</td>
+                    <td>2023-04-24</td>
+                    <td>7723-0009</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0362004.243.pdf> R0362004.243</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Krista%20Chastain>Krista Chastain</a></td>
+                    <td>Radiographer</td>
+                    <td>R0009509</td>
+                    <td>2023-03-06</td>
+                    <td>7722-0094</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R0950903.063.pdf> R0950903.063</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jontier%20Robinson>Jontier Robinson</a></td>
+                    <td>Radiographer</td>
+                    <td>R0013608</td>
+                    <td>2023-02-16</td>
+                    <td>7723-0037</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R1360802.163.pdf> R1360802.163</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Jontier%20Robinson>Jontier Robinson</a></td>
+                    <td>Radiographer</td>
+                    <td>R0013608</td>
+                    <td>2023-02-16</td>
+                    <td>2222-0108A</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R1360802.163.pdf> R1360802.163</a></td>
+                  </tr>
+                
+                  <tr>
+                    <td><a href=/doctor/Yousef%20Degife>Yousef Degife</a></td>
+                    <td>Radiographer</td>
+                    <td>R0009376</td>
+                    <td>2024-03-01</td>
+                    <td>2219-0015</td>
+                    <td><a href=https://www.mbp.state.md.us/BPQAPP/orders/R000937603.014.pdf> R000937603.014</a></td>
+                  </tr>
+                
+              </tbody>
+            </div>      
+            </table>
+          </div>
+        </div>
+
+            
+      </div>
+    </div>
+  </body>
+</html>
