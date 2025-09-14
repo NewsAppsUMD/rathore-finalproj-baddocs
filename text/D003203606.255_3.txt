@@ -1,0 +1,28 @@
+visit, and many patients lost their lives. There was not a staffing issue that Facility A management
+considered a “shortage”; nonetheless, many third-party agency nurses or travelling nurses were
+brought in who were unfamiliar with the patients, and the overall workload had increased.
+
+10. Facility A had protocols for indicating when a patient had been discharged or left
+the facility, and their bed remained on hold. These protocols were in place during the relevant time
+period in this matter, the COVID-19 Pandemic.
+
+11. During the relevant time period in this matter during the COVID-19 Pandemic,
+Facility A utilized the Point Click Care (“PCC”) electronic medical records system, which is
+utilized by eighty percent of long-term care facilities in the United States.
+
+12. When a patient is discharged from Facility A, the PCC clearly indicates this,
+because the patient’s record is no longer active. The default setting in the PCC is to only show
+active patients. To see discharged patients, a PCC user would have to widen a filter to include
+discharged patients. Once a patient has been discharged, PCC lists their date and time of discharge.
+
+13. In addition, after a patient has been discharged, or has left the facility with their bed
+remaining on hold, going forward, there would be no vital signs for the patient, nursing progress
+notes, or active medicine list. Such information would not be present unless and until the patient
+eventually returned to Facility A.
+
+14. Ifa patient left Facility A with their bed remaining on hold, the home page for that
+patient in the PCC would indicate the patient left the facility for another location and the date the
+patient left Facility A.
+
+15. Facility A maintains a census, which lists its active present patients.
+

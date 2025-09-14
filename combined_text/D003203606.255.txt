@@ -1,0 +1,767 @@
+IN THE MATTER OF * BEFORE THE
+
+GARY J. SPROUSE, M.D. * MARYLAND STATE BOARD
+Respondent * OF PHYSICIANS
+
+License Number: D32036 * Case Number: 2221-0025A
+
+* * * * * * * * * * * * *
+
+FINAL DECISION AND ORDER
+On April 7, 2023, Disciplinary Panel A of the Maryland State Board of Physicians (the
+“Board”) issued charges against Respondent Gary J. Sprouse, M.D. (“Respondent” or “Dr.
+Sprouse”), for alleged violations of the Maryland Medical Practice Act. See Md. Code Ann.,
+Health Occ. §§ 14-101—14-509, 14-601—14-702. Specifically, Dr. Sprouse was charged with
+violating the following grounds of § 14-404 of the Health Occupations Article:
+
+Health Occ. § 14-404. Denials, reprimands, probations, suspensions,
+revocations — Grounds.
+
+(a) Subject to the hearing provisions of § 14-405 of this subtitle, a
+disciplinary panel, on the affirmative vote of a majority of the quorum
+of the disciplinary panel, may reprimand any licensee, place any
+licensee on probation, or suspend or revoke a license if the licensee:
+
+(3) Is guilty of:
+
+(ii) | Unprofessional conduct in the practice of medicine;
+(11) Willfully makes or files a false report or record in the practice of medicine;
+(17) Makes a willful misrepresentation in treatment; [and]
+
+(23) Willfully submit false statements to collect feeds for which services are not
+provided[.]
+The case was delegated to the Office of Administrative Hearings for an evidentiary hearing
+and the issuance of a proposed decision with proposed findings of fact, proposed conclusions of
+law, and a proposed disposition.
+
+An Administrative Law Judge (“ALJ”) for the Office of Administrative Hearings held an
+evidentiary hearing on September 23 and 24, 2024, via the Webex videoconferencing platform.
+An Assistant Attorney General from the Health Occupations Prosecution and Litigation Unit
+(“HOPL”) of the Office of the Attorney General presented the case for the State. The Respondent
+represented himself.
+
+On December 16, 2024, the ALJ who presided over the evidentiary hearing issued a
+proposed decision. Based on the proposed findings of fact, the ALJ proposed that the charges be
+upheld, concluding that Dr. Sprouse violated the grounds charged: Health Occ. § 14-404(a)(3)(ii),
+(11), (17), and (23). As a sanction, the ALJ proposed that Dr. Spouse be reprimanded, his license
+to practice medicine in Maryland be suspended for six months, he take a course in ethics, and he
+pay a fine of $35,000.
+
+Dr. Sprouse filed exceptions to the ALJ’s proposed decision, and the Administrative
+Prosecutor filed a response. On March 26, 2025, an exceptions hearing was held before
+Disciplinary Panel B (“Panel B” or the “Panel”) of the Board. At the exceptions hearing, an
+Administrative Prosecutor from HOPL, was present and represented the State, and the Respondent
+was present and represented himself.
+
+FINDINGS OF FACT
+Panel B finds that the following facts were proved by the preponderance of evidence:
+1. At all relevant times to the charges in this matter, the Respondent was licensed to
+
+practice medicine in Maryland.
+
+DISCUSSION OF CHARGES
+
+The Respondent filed exceptions to the ALJ’s proposed decision, arguing that the ALJ
+made erroneous findings or determinations on the following issues: (1) willfulness; (2) the scope
+of immunity for health care practitioners during the COVID-19 Pandemic; and (3) the proposed
+sanction?
+L Willfulness
+
+The Respondent was charged with four grounds under § 14-404(a) of the Health
+Occupations Article. Three of the four grounds have a willfulness element. Those three grounds
+are:
+
+(11) Willfully makes or files a false report or record in the practice of medicine;
+
+(17) Makes a willful misrepresentation in treatment; [and]
+
+(23) Willfully submits false statements to collect fees for which services are not provided[.]
+
+The ALJ addressed the requirements of the willfulness element contained in § 14-
+404(a)(11), (17), and (23) of the Health Occupations Article? The ALJ thoroughly reviewed Kim
+yv. Maryland State Board of Physicians, 423 Md. 523 (2011), which concerns the meaning of
+willfulness in the context of § 14-404(a). The ALJ explained that Kim ruled that, in grounds with
+a willfulness element in § 14-404(a), a finding of willfulness does not require proof of an intent to
+deceive or a malicious intent. Instead, the ALJ found that, in the § 14-404(a) grounds containing
+
+the willfulness element, there must be proof that the conduct was committed intentionally.
+
+? Discussion of the Respondent’s exceptions concerning the proposed sanction is in the Sanction
+section.
+
+> All references to § 14-404(a) in this final decision and order concern § 14-404(a) of the Health
+Occupations Article.
+
+11
+
+According to the ALJ, there must be an intent to commit the act, but it does not require knowledge
+that the act will cause an illegal result.
+
+The ALJ then addressed the Respondent’s claim that his actions were accidental. The ALJ
+found that the Respondent’s claim that his actions were merely accidental was “illogical and
+unconvincing.” The ALJ addressed the Respondent’s position that he checked the facility’s census
+in the morning and would partially fill out assessments. The ALJ did not accept that the
+Respondent’s actions were accidental or an honest mistake.
+
+The ALJ explained in detail why he did not accept the Respondent’s claim that the false
+records were accidental or the result of honest mistakes. The ALJ found that assessments partially
+completed before he left for work, as a witness for the Respondent testified, would not account for
+the records at issue, which were fully completed. The ALJ found that to properly fully complete
+the assessments would require the practitioner assessing a patient’s condition to be in the presence
+of the patient being assessed. The ALJ also based his determination on the layers of processes that
+are available to ensure that a physician would know that a patient was no longer at the facility,
+including the PCC and the physical chart. The Respondent failed to consult these processes. The
+ALJ found that the Respondent’s claim—that because he checked the facility’s census before
+patients were discharged on that day caused the false records—unconvincing. The ALJ noted that
+only two of the six records at issue involved patients who left the facility on the same day as the
+purported assessment, thus the Respondent’s reliance on viewing the census does not account for
+the other four records. The ALJ, moreover, relied-on healthcare professionals who testified,
+including those who the Respondent presented as witnesses, that they were unaware of a similar
+occurrence (although one witness who testified was aware of a similar occurrence through perusing
+
+publications on physician discipline). And one witness of the Respondent, a nurse practitioner,
+
+whom the ALJ found very credible in both demeanor and knowledge of the subject matter, testified
+that she would go to where the patient is located and, if the patient were not there, she would ask
+the nurse where the patient was, then look for the patient’s medical record, which would indicate
+whether the patient was no longer at the facility.
+
+The Respondent argues on exceptions that his actions can only be found willful if there is
+proof that he acted with an intent to deceive. According to the Respondent, fraud requires an intent
+to deceive. The Respondent also argues that his errors were an honest mistake, inadvertent, or
+accidental. According to the Respondent, the “State cannot rely on negligence, oversight, or
+administrative errors to meet the threshold for fraud.”
+
+Panel B accepts the ALJ’s findings. The Kim case, which governs this issue, explains the
+requirements of willful conduct in the context of § 14-404(a) of the Health Occupations Article.
+In this context, Kim does not require proof of an intent to deceive or to commit fraud. As stated in
+Kim, “‘Willful,’ for purposes of § 14-404, requires proof that the conduct at issue was done
+intentionally, not that it was committed with an intent to deceive or with malice.” Kim, 423 Md.
+at 546. The Panel does not accept the Respondent’s contention that the willful element in the §
+14-404 provisions require a showing of an intent to deceive or to commit fraud. And the Panel
+further finds that the Respondent’s acts with respect to the conduct at issue were intentional and
+voluntary. The Respondent’s conduct was not accidental, was not inadvertent, and was not the
+result of honest mistakes. The Panel adopts the ALJ’s reasoning on this issue.
+
+The evidence demonstrates that to complete the medical assessments properly would
+require meeting with the patient. There is no dispute that the records of medical assessments that
+did not take place at issue were completed without the Respondent meeting with the patients. The
+
+Respondent intentionally recorded medical information of patients’ conditions for medical
+assessments that he did not perform, and he intentionally billed for these medical assessments that
+he did not perform. The Respondent did not record medical information at issue about the patients’
+conditions accidentally. The medical records at issue purposely indicated that he medically
+evaluated the patients on days when he did not evaluate those patients. As correctly stated by the
+ALI, “all six assessments were documents completely — not partially - meaning that at some point
+in the day he intentionally completed documentation for examinations he never performed.” (PD
+at 23.) If he could not locate a patient for an assessment, there were many avenues available to
+the Respondent to determine whether the patients were at the facility. Yet the Respondent still
+completed medical forms indicating that the patients at issue had been at the facility and underwent
+medical assessments or examinations by him, when the patients were not present at the facility,
+and the Respondent did not assess or examine the patients as he indicated on these forms. The
+Respondent’s failure to use the available resources to attempt to determine the patients’ locations,
+when he did not meet with the patients, indicates an intent on the Respondent’s part to document
+medical assessments that did not take place. It shows his intent was not to record accurate medical
+information, but instead to complete assessment forms and bill for medical acts he did not perform.
+
+The Panel does not find that the Respondent acted in good faith or inadvertently with
+respect to the conduct at issue. Certainly, medical records sometimes contain honest mistakes, but
+these are not those records. This is not a situation in which a health care professional
+absentmindedly wrote an incorrect date, measurement, or observation on a form. To explain how
+the false records were produced, the Respondent relies on the challenges he faced by the COVID-
+19 Pandemic. The Panel does not find, though, that the circumstances of the COVID-19 Pandemic
+indicate that the Respondent’s actions were unintentional. The evidence included testimony from
+
+other healthcare professionals who worked during the COVID-19 Pandemic, and who (except for
+
+the witness familiar with this type of misconduct through professional disciplinary publications)
+were unfamiliar with the type of false records produced by the Respondent here. And Patient 3’s
+record at issue and Patient 4’s record at issue were not merely daily COVID-19 evaluations. In
+particular, the record at issue concerning Patient 3 is a detailed SOAP Note for a supposed May
+29, 2020, follow-up evaluation. The note contains purported details of the patient’s medical
+condition as if the Respondent thoroughly examined the patient on May 29, 2020, and, in fact,
+states, at one point, “Pt is seen for a follow-up. Pt is seen in the room.” But this evaluation did
+not take place.
+
+Nor does the Panel find that the Respondent’s contention that he quickly returned payments
+to the insurance companies after he was notified the Board was investigating him evinces an honest
+mistake, Rather, the Panel finds that the repayments demonstrate an effort to diminish or quell
+focus on his actions.
+
+The Panel finds the Respondent’s conduct at issue willful and denies his exceptions on this
+issue. The Panel finds that the Respondent willfully made or filed false reports or records in the
+practice of medicine, made willful representations in treatment, and willfully submitted false
+statements to collect feeds for which services were not provided, in violation of Health Occ. § 14-
+404(a)(11), (17), and (23).
+
+Unprofessional Conduct
+
+The ALJ relied upon Cornjeld v. State Bd. of Physicians, 174 Md. App. 456, 479 (2007),
+to find that the Respondent engaged in unprofessional condyct in the practice of medicine. As
+explained by the ALJ, in Cornfeld, the Appellate Court of Maryland (the Court of Special Appeals
+at the time of the Cornfeld decision) held that the physician’s false statements to a hospital review
+
+investigator and to the Board regarding treatment he had provided constituted unprofessional
+conduct in the practice of medicine. The ALJ found, “[h]ere, the Respondent’s willfully false
+record-making, misrepresentations in treatment and in billing constitute unprofessional conduct in
+the practice of medicine.” Panel B accepts the ALJ’s determination. The Panel finds the
+Respondent guilty of unprofessional conduct in the practice of medicine, in violation of Health
+Occ. § 14-404(a)(3)Gii).
+I. Issue of Immunity based on COVID-19 Catastrophic Health Emergency
+
+The Respondent had entered into evidence two documents signed by the Maryland
+Governor, at the time of the events at issue, concerning the COVID-19 Pandemic: the Order of the
+Governor of the State of Maryland, Amending and Restating the Order Dated April 5, 2020
+Authorizing Various Actions related to Nursing Homes and Other Health Facilities, dated April 29,
+2020 (Order of the Governor); and the State of Maryland Renewal of Declaration of State of
+Emergency and Existence of Catastrophic Health Emergency - COVID-19, dated July 30, 20204
+(Renewal of Declaration). It appears the Respondent presented these documents as part of his
+argument that he is entitled to immunity from the administrative action against him.
+
+In the proceeding at OAH, the Respondent cited two statutory provisions: Md. Code Ann.,
+Pub. Safety § 14-3A-06 and Md. Code Ann., Health-Gen. § 18-907(d). Section 14-3A-06 of the
+Public Safety Article states, “A health care provider is immune from civil or criminal liability if
+the health care provider acts in good faith and under a catastrophic health emergency
+proclamation.” Section 18-907(d) of the Health-General Article states, “A health care provider
+
+acting in good faith and in accordance with a catastrophic health emergency disease surveillance
+
+‘ As noted by the ALJ, this second document was issued after the Respondent had completed the
+six assessments at issue.
+
+16
+
+and response program is immune from civil or criminal liability related to those actions, unless the
+health care provider acts with willful misconduct.”
+
+The ALJ found that neither statute applies to the Respondent’s circumstances in this
+administrative action. First, the ALJ determined that both statutes apply to “civil or criminal
+liability,” not to administrative actions. See, e.g., Matter of Cricket Wireless, LLC, 259 Md. App.
+44, 68 (2023) (an administrative action against a professional license “is neither civil nor criminal
+in nature”). Second, the ALJ did not accept that the Respondent acted with an honest intention
+and thus did not act in good faith. See 374 Md. 665, 681 (2003).> Third, the ALJ also found that
+the Respondent failed to establish that the Respondent’s actions with respect to the six assessments
+at issue were “under” or “in accordance with” the proclamation or a disease surveillance and
+response program. The ALJ did not accept that “documenting and billing for patient examinations
+that he never performed” were in conformity with any order or proclamation issued the governor
+or Secretary of Health. The orders and directives at issue were to ensure that each resident was
+evaluated at least daily for a possible COVID-19 infection. For the six assessments at issue, the
+Respondent did not evaluate the patients, despite documenting that he did. The ALJ thus did not
+find that the Respondent is immune from administrative sanctions in this case.
+
+On exceptions, the Respondent relies upon an Opinion of the Attorney General, dated
+December 28, 2015, to argue that physicians are entitled to immunity in administrative actions.
+The Respondent contends that immunity excluding administrative acts and applying to only civil
+and criminal acts is a “narrow interpretation [that] contradicts the intent of the emergency
+proclamation and legal guidance provided by the Attorney General’s office.” But the Attorney
+
+General Opinion the Respondent relies upon states, “Based on this plain language, it is our view
+
+> The ALJ had already determined that the Respondent’s offenses were willful.
+17
+
+that health care providers are immune from civil or criminal liability. ..” 100 Op. Att’y at 188. It
+does not indicate physicians are immune from administrative sanctions. The statutes the
+Respondent relies upon afford immunity in civil and criminal cases, but not in administrative
+actions.
+
+The Respondent also relies upon the “good faith” requirement included in each statute,
+contending that his errors were unintentional. But as already explained, the Respondent’s conduct
+at issue was neither in good faith nor unintentional. Panel B finds that the Respondent did not act
+in good faith and finds that he acted with willful misconduct. The statutory protection for acts
+made in good faith does not apply to the Respondent with respect to the six assessments at issue.
+
+The Panel further agrees with the ALJ that the Respondent’s documentation and billing for
+assessments that he did not perform are not consistent with acting “in accordance with” a
+catastrophic health emergency disease surveillance and response program or “under” a
+catastrophic health emergency proclamation. The catastrophic health emergency directives
+concerned providing patients with examinations or assessments to protect against the spread of
+COVID-19. Documenting and billing for assessments that did not take place does not align with
+the catastrophic health emergency programs and proclamations. The Panel finds that the
+Respondent is not entitled to immunity and denies the Respondent’s exception.
+
+CONCLUSIONS OF LAW
+
+Based upon the findings of fact and as explained above, Panel B concludes that the
+Respondent: is guilty of unprofessional conduct in the practice of medicine, in violation of Health
+Occ. § 14-404(a)(3)(ii); willfully made or filed a false report or record in the practice of medicine,
+
+in violation of Health Occ. § 14-404(a)(11); made a willful misrepresentation in treatment, in
+
+18
+
+violation of Health Occ. § 14-404(a)(17); and willfully submitted false statements to collect feeds
+for which services were not provided, in violation of Health Occ. § 14-404(a)(23).
+SANCTION
+
+Under the sanctioning guidelines, COMAR 10.32.02.10, a violation of Health Occ. § 14-
+404(a)(3)(i), unprofessional conduct in the practice of medicine that is not sexual in nature, has a
+minimum sanction of a reprimand and a maximum sanction of revocation, with a minimum fine
+of $10,000, and a maximum fine of $25,000. See COMAR 10.32.02.10B(3)(e). A violation of
+Health Occ. § 14-404(a)(11), willfully making or filing a false report or record in the practice of
+medicine, has a minimum sanction of a reprimand and a maximum sanction of revocation, with a
+minimum fine of $10,000 and a maximum fine of $50,000. See COMAR 10.32.02,10B(11). A
+violation of Health Occ. § 14-404(a)(17), making a willful mistepresentation in treatment, has a
+minimum sanction of a reprimand and a maximum sanction of revocation, and a minimum fine of
+$10,000, and a maximum fine of $50,000. See COMAR 10.32.02.10B(17). And a violation of
+Health Occ. 14-404(a)(23), willfully submitting false statements to collect fees for which services
+were not provided, has a minimum sanction of a reprimand and a maximum sanction of revocation,
+and a minimum fine of $10,000 and a maximum fine of $50,000. See COMAR 10.32.02.10B(23).
+
+“The disciplinary panel “may impose more than one sanction, provided the most severe
+sanction neither exceeds the maximum nor less than the minimum permitted under the sanctioning
+guidelines.” COMAR 10.32.02.09A(4). “If a licensee has violated more than one ground for
+discipline as set forth in the sanctioning guidelines: (a) The sanction with the highest severity
+ranking should be used to determine which ground will be used in developing a sanction; and (b)
+The disciplinary panel may impose concurrent sanctions based on other grounds violated.”
+
+COMAR 10.32.02.09A(6).
+The ALJ proposed a reprimand, a six-month suspension of the Respondent’s license, a
+$35,000 fine, and a course in ethics. The ALJ emphasized the Respondent’s extensive disciplinary
+history with the Board and that the Respondent “committed these acts deliberately, i.e., willfully.”
+While the evidence does not show that the Respondent caused patient harm, the ALJ found there
+was potential to cause significant patient harm. The ALJ further noted that the conduct at issue,
+occurring six times over three months, demonstrates a pattern of detrimental conduct and further
+noted that the Respondent pursued financial gain over the welfare of his patients. The ALJ also
+mentioned that the patients at issue were especially vulnerable, being elderly and residing in a
+long-term care facility during the COVID-19 Pandemic. The ALJ also relied on the unsuccessful
+previous attempts at rehabilitation, mentioning that the Respondent had previously been
+disciplined for conduct related creating a false medical record.
+
+The Respondent took exception to the ALJ’s analysis concerning the factors taken into
+account in arriving at the proposed sanction. The Respondent contends that the ALJ erred by
+finding that his conduct was deliberate, arguing that his actions were not premeditated. The
+Respondent further asks for credit for being cooperative with the Board’s investigation, noting that
+he voluntarily admitted the misconduct. Unlike the ALJ’s finding of a detrimental pattern, the
+Respondent categorizes his conduct as an isolated matter. The Respondent also argues that the
+ALJ should not have found a lack of rehabilitative potential. According to the Respondent, in a
+previous disciplinary action against him, where he “had entered a false note for a hospital patient,
+the Respondent did intentionally write a false note... This case is completely different. The
+Respondent had no inkling that an error had occurred until July. There was no intention of filing
+a false note.” The Respondent also takes issue with the ALJ’s finding that he was motivated by
+
+financial gain: “This money was promptly returned when the billing errors were discovered.” The
+
+20
+
+2. The Respondent was originally licensed to practice medicine in Maryland on March
+8, 1985.
+
+3. The Respondent currently has no board certifications.
+
+4. In 2020, the Respondent worked for Facility A,' a long-term care and subacute
+rehabilitation facility, in Maryland, until his termination in July 2020.
+
+5. On March 5, 2020, a state of emergency and a catastrophic health emergency were
+declared in the State of Maryland in relation to the COVID-19 Pandemic.
+
+6. On April 28, 2020; April 29, 2020; May 27, 2020; May 29, 2020; June 6, 2020; and
+June 16, 2020, the Respondent documented and billed for six medical assessments and/or
+evaluations of five Facility A patients that he did not perform. The patients were not present in
+Facility A at the time the Respondent documented he performed the medical
+assessments/evaluations. Those patients had been discharged or hospitalized at the times the
+Respondent claimed he had performed the medical assessments/evaluations at Facility A.
+
+7. During this time period in the course of the COVID-19 Pandemic, there were not
+shortages of personal protective equipment (“PPE”) at Facility A, but PPE was rationed to ensure
+a consistent supply.
+
+8. During this time period in the course of the COVID-19 Pandemic, Facility A housed
+approximately 60 patients.
+
+9. Also, during this time of the COVID-19 Pandemic at Facility A, the workload
+increased significantly, as each patient had to be screened for COVID-19 on a daily basis, many
+
+patients became sick and had to be quarantined, PPE needed to be changed between each patient
+
+' For privacy and confidentiality, this final decision and order does not use the actual name of
+the facility or the actual names of the patients and instead uses generic terms.
+
+3
+
+Respondent also claims the ALJ erred in finding that his actions had the potential to cause
+significant patient harm. The Respondent notes that false medical records concerning patients’
+COVID-19 symptoms filed while the patients were not staying at the nursing facility could not
+have been relied upon to cause patient harm, because the patients’ COVID-19 status where the
+patients were at the time would not have depended upon the Respondent’s false assessments.
+
+The Respondent’s logic—that the false medical records he produced did not have the
+potential to cause patient harm because the assessments would not be relied upon as the result of
+the patients being in another location—does have merit. This point, however, is insufficient to
+impose a less severe sanction than the one the ALJ recommended. The Panel finds the ALJ’s
+recommended sanction is appropriate and adopts it. The Respondent deliberately produced false
+medical records. While, under these peculiar circumstances, the patients’ locations most likely
+prevented them, and others, from being harmed by the false records, the fact that the Respondent
+was willing to intentionally engage in falsifying medical records cannot be tolerated. Further, the
+Respondent’s previous discipline involving intentionally falsifying a medical record indicates a
+lack of rehabilitative potential. The Panel does not find that the Respondent failed to cooperate
+with the Board’s investigation, but the Panel does not accept the Respondent’s claims that his
+conduct was a result of honest mistakes, a typical paperwork error, or an unintentional paperwork
+system flaw. The Respondent intentionally produced records that were deliberately false and
+intentionally billed for assessments that did not take place. The Respondent’s conduct also does
+not indicate an isolated incident. The six assessments that the Respondent intentionally falsified
+occurred over a period of several weeks. The Panel also agrees with the ALJ's proposed findings
+that the Respondent was motivated by financial gain and that the Respondent has an extensive
+
+disciplinary history with the Board.
+
+21
+
+ORDER
+
+It is, on the affirmative vote of a majority of the quorum of Panel B, hereby
+
+ORDERED that Dr. Sprouse is REPRIMANDED; and it is further
+
+ORDERED that the Respondent’s license to practice medicine in Maryland is
+
+SUSPENDED for a minimum period of SX MONTHS.° During the suspension period:
+
+(1) The Respondent shall not:
+
+(a)
+(b)
+
+(c)
+C))
+
+()
+(f)
+
+Practice medicine in Maryland;
+
+Take any actions to hold himself out to the public as a current provider of medical
+services;
+
+Authorize, allow, or condone the use of his name or provider number by any health
+care practice or any other licensee or health care provider;
+
+Function as a peer reviewer for the Board or for any hospital or other medical care
+facility in the State;
+
+Prescribe or dispense medications; or
+
+Perform any other act that requires an active medical license; and
+
+(2) The Respondent is required to take and successfully complete a course in ethics. The
+following terms apply:
+
+(a)
+(b)
+(c)
+(d)
+
+It is the Respondent’s responsibility to locate, enroll in, and obtain the Panel’s
+approval of the course before the course begins;
+
+The Respondent must provide documentation to the Panel that the Respondent has
+completed the course;
+
+The course may not be used to fulfill the continuing medical education credits
+required for license renewal; and
+
+The Respondent is responsible for the cost of the course; and it is further
+
+ORDERED that, within ONE YEAR, the Respondent shall pay a civil fine of $35,000.
+
+The Payment shall be by money order or bank-certified check made payable to the Maryland Board
+
+of Physicians and mailed to P.O. Box 37217, Baltimore, Maryland 21297. The Board will not
+
+6
+
+If the Respondent’s license expires during the period of suspension, the suspension and any
+
+conditions of the suspension will be tolled.
+
+22
+
+renew or reinstate the Respondent’s license if the Respondent fails to timely pay the fine to the
+
+Board;’ and it is further
+
+ORDERED that the Respondent shall not apply for early termination of suspension; and
+it is further
+
+ORDERED that after the minimum period of suspension has passed and the Respondent
+has fully and satisfactorily complied with all terms and conditions of the suspension, the
+Respondent may submit to the Board a written petition for termination of suspension. After
+determining that the Respondent has complied with the relevant terms of the suspension, the
+disciplinary panel may administratively terminate the Respondent’s suspension through an order
+of the disciplinary panel; and it is further
+
+ORDERED that the Respondent is responsible for all costs incurred in fulfilling the terms
+and conditions of this Final Decision and Order; and it is further
+
+ORDERED that, if the Respondent allegedly fails to comply with any term or condition
+of the suspension, the Respondent shall be given notice and an opportunity for a hearing. If the
+disciplinary panel determines there is a genuine dispute as to a material fact, the hearing shall be
+before an Administrative Law Judge of the Office of Administrative Hearings followed by an
+exceptions process before a disciplinary panel; and if the disciplinary panel determines there is no
+genuine dispute as to a material fact, the Respondent shall be given a show cause hearing before a
+disciplinary panel; and it is further
+
+ORDERED that, after the appropriate hearing, if the disciplinary panel determines that the
+Respondent has failed to comply with any term or condition of the suspension, the disciplinary
+
+panel may reprimand the Respondent, place the Respondent on probation with appropriate terms
+
+7 The civil fine is not a condition of the suspension.
+
+23
+
+and conditions, further suspend or revoke the Respondent’s license to practice medicine in
+Maryland. The disciplinary panel may, in addition to one or more of the sanctions set forth above,
+impose a civil fine on the Respondent; and it is further
+
+ORDERED that this Final Decision and Order goes into effect upon the signature of the
+Board’s executive director or her designee. The executive director or her designee signs this Final
+Decision and Order on behalf of Panel B; and it is further
+
+ORDERED that this Final Decision and Order is a public document. See Health Occ. §§
+
+1-607, 14-411.1(b)(2), and Gen. Prov. § 4-333(b)(6).
+Signature On File
+
+OW/25 [202S _
+Dat Christine A. Farrell dotrhgeiine  [/
+
+Maryland State Board of Physicians
+
+NOTICE OF RIGHT TO PETITION FOR JUDICIAL REVIEW
+Pursuant to Health Occ. § 14-408, the Respondent has the right to seek judicial review of
+this Final Decision and Order. Any petition for judicial review shall be filed within thirty (30)
+days from the date of the mailing of this Final Decision and Order. The cover letter accompanying
+this Final Decision and Order indicates the date Final Decision and Order is mailed. Any petition
+for judicial review shall be made as provided for in the Administrative Procedure Act, Md. Code
+Ann., State Gov’t § 10-222 and Title 7, Chapter 200 of the Maryland Rules of Procedure.
+If the Respondent files a petition for judicial review, the Board is a party and should be
+served with the court’s process at the following address:
+Maryland State Board of Physicians
+Christine A. Farrelly, Executive Director
+
+4201 Patterson Avenue, 4th Floor
+Baltimore, Maryland 21215
+
+24
+Notice of any petition should also be sent to the Board’s counsel at the following address:
+
+David Wagner
+
+Assistant Attorney General
+Maryland Department of Health
+300 West Preston Street, Suite 302
+Baltimore, Maryland 21201
+
+25
+visit, and many patients lost their lives. There was not a staffing issue that Facility A management
+considered a “shortage”; nonetheless, many third-party agency nurses or travelling nurses were
+brought in who were unfamiliar with the patients, and the overall workload had increased.
+
+10. Facility A had protocols for indicating when a patient had been discharged or left
+the facility, and their bed remained on hold. These protocols were in place during the relevant time
+period in this matter, the COVID-19 Pandemic.
+
+11. During the relevant time period in this matter during the COVID-19 Pandemic,
+Facility A utilized the Point Click Care (“PCC”) electronic medical records system, which is
+utilized by eighty percent of long-term care facilities in the United States.
+
+12. When a patient is discharged from Facility A, the PCC clearly indicates this,
+because the patient’s record is no longer active. The default setting in the PCC is to only show
+active patients. To see discharged patients, a PCC user would have to widen a filter to include
+discharged patients. Once a patient has been discharged, PCC lists their date and time of discharge.
+
+13. In addition, after a patient has been discharged, or has left the facility with their bed
+remaining on hold, going forward, there would be no vital signs for the patient, nursing progress
+notes, or active medicine list. Such information would not be present unless and until the patient
+eventually returned to Facility A.
+
+14. Ifa patient left Facility A with their bed remaining on hold, the home page for that
+patient in the PCC would indicate the patient left the facility for another location and the date the
+patient left Facility A.
+
+15. Facility A maintains a census, which lists its active present patients.
+
+16. Facility A maintains a chart rack with the patients’ physical medical charts. When
+a patient left the facility with their bed remaining on hold, their physical medical chart would be
+turned upside down on the chart rack to indicate they were not at the facility.
+
+17. | When a patient was discharged from Facility A, their physical medical chart would
+be removed from the chart rack, potentially be temporarily placed at the nursing station, and
+ultimately be placed on the desk of the medical records administrator in the medical records
+department.
+
+18. During the relevant time at issue of the COVID-19 Pandemic, the Respondent, in
+addition to working at Facility A, maintained a private practice and performed services at other
+facilities.
+
+19, In November of 2019, before the COVID-19 Pandemic, the Respondent billed for
+207 visits at Facility A. In May of 2020, at the height of the pandemic, the Respondent billed for
+1,162 visits at Facility A.
+
+20. The Respondent submitted two Daily Evaluation for COVID-19 form assessments
+of Patient 1 purportedly performed in-person at Facility A on April 28 and 29, 2020. In those
+assessments, the Respondent noted the patient had no fever and no signs or symptoms of COVID-
+19, and in both assessments noted the patient had a clear chest.
+
+21. The Respondent did not see Patient 1 or perform assessments on those dates.
+
+22. Patient 1 was moved from Facility A to another facility, a hospital, for
+gastrointestinal treatment, on April 25, 2020. She returned to Facility A, on May 1, 2020.
+
+23. The Respondent billed the Maryland Department of Health and Novitas Solutions
+for the two assessments of Patient 1. On October 4, 2020, shortly after the Respondent was notified
+
+that he was under investigation by the Board, the Respondent told the Maryland Department of
+Health that the bills were submitted in error and no payment for the bills had been received, That
+same date, he returned to Novitas Solutions a total of $68.10, which the Respondent had received
+for the two assessments,
+
+24. The Respondent completed a Daily Evaluation of COVID-19 form for Patient 2,
+indicating that he had evaluated Patient 2 on May 27, 2020, at Facility A. The form indicated,
+among other things, that the patient had no fever, coughing or wheezing.
+
+25, The Respondent did not see or evaluate Patient 2 on May 27, 2020.
+
+26. Patient 2 was discharged from Facility A on May 27, 2020, at 12:20 p.m. The
+Respondent arrived at Facility A, on May 27, 2020, to conduct evaluations after Patient 2 had been
+discharged.
+
+27. The Respondent billed United Healthcare and Novitas Solutions for the evaluation
+of Patient 2. On October 4, 2020, the Respondent returned to United Healthcare and Novitas
+Solutions $9.14 and $34.05, respectively, that he had been paid by each for the assessment.
+
+28. The Respondent created an Office Visit SOAP [Subjective, Objective, Assessment,
+Plan] Note indicating that he had seen Patient 3 on May 29, 2020, at Facility A and, among other
+things, indicated that he evaluated Patient 3’s wounds, eating habits and appetite, COVID
+symptoms, and mental status.
+
+29. The Respondent did not see or evaluate Patient 3 on May 29, 2020.
+
+30. On May 28, 2020, at approximately 10:15 a.m., Patient 3 was discharged from
+Facility A and was not present to be examined by the Respondent on May 29, 2020.
+
+31. The Respondent billed Bankers Life and Casualty Co. and Novitas Solutions for
+the assessment of Patient 3. On October 4, 2020, the Respondent returned to Casualty Co. and
+
+Novitas Solutions $18.95 and $71.99, respectively, which they had paid him for the assessment.
+
+32. On June 6, 2020, the Respondent created a follow-up assessment note indicating
+that he conducted an evaluation of Patient 4 at Facility A. Among other things, the follow-up
+assessment indicated the patient did not have a fever, coughing, or headache and that his left leg
+was normal.
+
+33. The Respondent did not see Patient 4 on June 6, 2020.
+
+34, Patient 4 was discharged from Facility A, on June 6, 2020, at approximately 11:30
+a.m. The Respondent arrived at Facility A, at 5:00 p.m., on June 6, 2020, five-and-a-half hours
+after Patient 4 had been discharged.
+
+35. | The Respondent billed United Healthcare for the follow-up assessment of Patient
+4. On October 4, 2020, the Respondent returned to United Healthcare the $94.73 he had been paid
+for the follow-up assessment.
+
+36. The Respondent completed and submitted a COVID-19 Daily Evaluation form
+indicating that he had evaluated Patient 5 in person at Facility A on June 16, 2020, and that Patient
+5 was negative for signs of COVID-19, including having no fever, coughing, or headache.
+
+37. The Respondent did not see Patient 5 or conduct an assessment on June 16, 2020.
+
+38. Patient 5 was not at Facility A on June 16, 2020. Patient 5 was taken by ambulance
+from Facility A to a hospital for emergency treatment on June 15, 2020. Patient 5 returned to
+Facility A on June 22, 2020.
+
+39. In his written statement to the Board and during his interview conducted by the
+Board, the Respondent admitted that he completed the medical documentation discussed above,
+despite that he had not seen or evaluated the patients on the days he claimed he had seen and
+
+evaluated the patients.
+40. The Respondent submitted bills and was reimbursed for all but one of the falsely
+documented evaluations. By October 4, 2020, shortly after he had been notified of the Board's
+investigation, the Respondent had returned all of those funds.
+
+41. When it was mandated that patients in long-term care facilities receive daily
+COVID-19 evaluations, there was no requirement for those evaluations to be performed by a
+physician. In most facilities, those evaluations were performed by nurses. The Respondent
+volunteered to perform COVID-19 evaluations at Facility A.
+
+42. No patient was harmed as a result of the Respondent’s actions.
+
+43. | When the Respondent documented and billed for the six medical assessments
+and/or evaluations of the five Facility A patients discussed above, wherein he did not actual
+perform those assessments/evaluations because the patients were not present at that facility, he
+performed those actions intentionally and not by accident, and he did not perform those actions as
+a result of an honest mistake.
+
+44, The Respondent has a significant prior disciplinary history with the Board.
+
+45. On June 26, 1996, the Respondent entered into a Consent Order with the Board
+wherein he was reprimanded and ordered to pay a $5,000 fine for practicing medicine with an
+unauthorized person or aiding an unauthorized person in the practice of medicine.
+
+46. | The Respondent has permitted a registered nurse who he employed in his medical
+office to act as a nurse practitioner, including issuing prescriptions the Respondent had pre-signed,
+even though she was not certified as a nurse practitioner.
+
+47. On July 22, 2013, after a hearing before an administrative law judge, the Board
+issued a Final Decision and Order, concluding that the Respondent was responsible for deceptive
+
+use of his license, unprofessional conduct in the practice of medicine, making a false report in the
+practice of medicine, failing to meet standards of quality medical care, and inadequate
+documentation.
+
+48. The Final Decision and Order, in 2013, was the result of the Respondent signing a
+Certificate of Merit in a medical malpractice action without first reviewing the medical records,
+falsifying a progress note in a patient’s medical record, inappropriately prescribing opioid
+medications by increasing dosages of opioids, failing to reduce dosages of opioids, failing to
+address addictions, and failing to refer patients to pain medicine specialists.
+
+49, The Board suspended the Respondent’s medical license until he completed Board-
+approved courses in pain management, medical ethics, and medical record-keeping.
+
+50. On September 10, 2013, after the Respondent completed the required courses, the
+Board issued an Order Terminating Suspension and Imposing Probation (“Probation Order”). The
+Respondent was placed on probation for a minimum of three years under the condition that his
+practice be subject to peer and/or chart review and that he comply with the Maryland Medical
+Practice Act.
+
+51. On July 30, 2014, after a hearing before an ALJ, the Board issued a Final Decision
+and Order, concluding the Respondent had failed to meet standards of quality medical care based
+on his improper prescribing of opioids and his treatment of a patient with suicidal depression. The
+Respondent was still on probation to address the issues in the 2013 case. The Board reprimanded
+the Respondent.
+
+52. On July 11, 2016, after a hearing before an ALJ, the Disciplinary Panel A of the
+Board issued an Amended Final Decision and Order, concluding the Respondent violated the
+September 10, 2013 Probation Order and failed to meet standards of quality care based on his
+
+failure to provide safe and effective treatment for chronic pain.
+53, Disciplinary Panel A of the Board found that the Respondent prescribed excessively
+high dosages of opioids, failed to sufficiently describe the pain complaints to justify prescribing
+opioids, inappropriately simultaneously prescribed benzodiazepines and opioids, and failed to
+refer patients to a pain management specialist.
+
+54. Disciplinary Panel A of the Board reprimanded the Respondent and placed him on
+probation for eighteen months under the condition that his practice be overseen by two supervisors,
+a specialist in pain and a specialist in psychiatry with experience treating psychiatric conditions
+that coincide with pain conditions.
+
+55. OnAugust 12, 2019, Disciplinary Panel A of the Board issued a Cease and Desist
+Order, ordering the Respondent to stop prescribing or dispensing opioids in Maryland, finding that
+he posed a serious risk to the health, safety, and welfare of patients and noted that the Respondent
+had dangerous prescribing habits and should not be allowed to treat pain patients using controlled
+dangerous substances.
+
+56. On March 11, 2020, the Respondent entered into a Consent Order with the
+Disciplinary A of the Board for failing to meet the standards of quality medical care, failing to
+keep adequate records, and violating the July 11, 2016 Amended Final Decision and Order.
+
+57. Pursuant to that Consent Order, in 2020, the Respondent was reprimanded,
+permanently prohibited from prescribing and dispensing all controlled dangerous substances,
+permanently prohibited from delegating to physician assistants the prescribing or dispensing of
+controlled dangerous substances, permanently prohibited from certifying patients for the medical
+use of cannabis, ordered to surrender his controlled dangerous substances registration to the Office
+
+of Controlled Substances Administration, and fined $15,000.
+
+10
